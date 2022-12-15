@@ -1,0 +1,82 @@
+C:\Users\userse\Downloads\Duzenlecek Projeler-20190211T055239Z-001\Duzenlecek Projeler\Sinema Rezervasyon Projesi V3\Sinema Programı\bin\Debug\Sinema Programı.exe
+C:\Users\userse\Downloads\Duzenlecek Projeler-20190211T055239Z-001\Duzenlecek Projeler\Sinema Rezervasyon Projesi V3\Sinema Programı\bin\Debug\Sinema Programı.pdb
+C:\Users\userse\Downloads\Duzenlecek Projeler-20190211T055239Z-001\Duzenlecek Projeler\Sinema Rezervasyon Projesi V3\Sinema Programı\obj\x86\Debug\Sinema Rezervasyon Otomasyonu.csprojResolveAssemblyReference.cache
+C:\Users\userse\Downloads\Duzenlecek Projeler-20190211T055239Z-001\Duzenlecek Projeler\Sinema Rezervasyon Projesi V3\Sinema Programı\obj\x86\Debug\Sinema_Programı.AnaEkran.resources
+C:\Users\userse\Downloads\Duzenlecek Projeler-20190211T055239Z-001\Duzenlecek Projeler\Sinema Rezervasyon Projesi V3\Sinema Programı\obj\x86\Debug\Sinema_Programı.KullaniciGirisEkrani.resources
+C:\Users\userse\Downloads\Duzenlecek Projeler-20190211T055239Z-001\Duzenlecek Projeler\Sinema Rezervasyon Projesi V3\Sinema Programı\obj\x86\Debug\Sinema_Programı.SinemaRezervasyonProjesi.resources
+C:\Users\userse\Downloads\Duzenlecek Projeler-20190211T055239Z-001\Duzenlecek Projeler\Sinema Rezervasyon Projesi V3\Sinema Programı\obj\x86\Debug\Sinema_Programı.Properties.Resources.resources
+C:\Users\userse\Downloads\Duzenlecek Projeler-20190211T055239Z-001\Duzenlecek Projeler\Sinema Rezervasyon Projesi V3\Sinema Programı\obj\x86\Debug\Sinema_Programı.YoneticiGirisEkrani.resources
+C:\Users\userse\Downloads\Duzenlecek Projeler-20190211T055239Z-001\Duzenlecek Projeler\Sinema Rezervasyon Projesi V3\Sinema Programı\obj\x86\Debug\Sinema_Programı.YoneticiPaneli.resources
+C:\Users\userse\Downloads\Duzenlecek Projeler-20190211T055239Z-001\Duzenlecek Projeler\Sinema Rezervasyon Projesi V3\Sinema Programı\obj\x86\Debug\Sinema Rezervasyon Otomasyonu.csproj.GenerateResource.Cache
+C:\Users\userse\Downloads\Duzenlecek Projeler-20190211T055239Z-001\Duzenlecek Projeler\Sinema Rezervasyon Projesi V3\Sinema Programı\obj\x86\Debug\Sinema Rezervasyon Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\userse\Downloads\Duzenlecek Projeler-20190211T055239Z-001\Duzenlecek Projeler\Sinema Rezervasyon Projesi V3\Sinema Programı\obj\x86\Debug\Sinema Programı.exe
+C:\Users\userse\Downloads\Duzenlecek Projeler-20190211T055239Z-001\Duzenlecek Projeler\Sinema Rezervasyon Projesi V3\Sinema Programı\obj\x86\Debug\Sinema Programı.pdb
+F:\github\Sinema Rezervasyon Otomasyonu\Sinema Programı\bin\Debug\Sinema Programı.exe
+F:\github\Sinema Rezervasyon Otomasyonu\Sinema Programı\bin\Debug\Sinema Programı.pdb
+F:\github\Sinema Rezervasyon Otomasyonu\Sinema Programı\obj\x86\Debug\Sinema Rezervasyon Otomasyonu.csprojResolveAssemblyReference.cache
+F:\github\Sinema Rezervasyon Otomasyonu\Sinema Programı\obj\x86\Debug\Sinema_Programı.AnaEkran.resources
+F:\github\Sinema Rezervasyon Otomasyonu\Sinema Programı\obj\x86\Debug\Sinema_Programı.KullaniciGirisEkrani.resources
+F:\github\Sinema Rezervasyon Otomasyonu\Sinema Programı\obj\x86\Debug\Sinema_Programı.SinemaRezervasyonProjesi.resources
+F:\github\Sinema Rezervasyon Otomasyonu\Sinema Programı\obj\x86\Debug\Sinema_Programı.Properties.Resources.resources
+F:\github\Sinema Rezervasyon Otomasyonu\Sinema Programı\obj\x86\Debug\Sinema_Programı.YoneticiGirisEkrani.resources
+F:\github\Sinema Rezervasyon Otomasyonu\Sinema Programı\obj\x86\Debug\Sinema_Programı.YoneticiPaneli.resources
+F:\github\Sinema Rezervasyon Otomasyonu\Sinema Programı\obj\x86\Debug\Sinema Rezervasyon Otomasyonu.csproj.GenerateResource.Cache
+F:\github\Sinema Rezervasyon Otomasyonu\Sinema Programı\obj\x86\Debug\Sinema Rezervasyon Otomasyonu.csproj.CoreCompileInputs.cache
+F:\github\Sinema Rezervasyon Otomasyonu\Sinema Programı\obj\x86\Debug\Sinema Programı.exe
+F:\github\Sinema Rezervasyon Otomasyonu\Sinema Programı\obj\x86\Debug\Sinema Programı.pdb
+C:\Users\Nida ERDOĞAN\Desktop\Sinema-Rezervasyon-Otomasyonu-master\Sinema-Rezervasyon-Otomasyonu-master\Sinema Programı\bin\Debug\Sinema Programı.exe
+C:\Users\Nida ERDOĞAN\Desktop\Sinema-Rezervasyon-Otomasyonu-master\Sinema-Rezervasyon-Otomasyonu-master\Sinema Programı\bin\Debug\Sinema Programı.pdb
+C:\Users\Nida ERDOĞAN\Desktop\Sinema-Rezervasyon-Otomasyonu-master\Sinema-Rezervasyon-Otomasyonu-master\Sinema Programı\obj\x86\Debug\Sinema Rezervasyon Otomasyonu.csproj.AssemblyReference.cache
+C:\Users\Nida ERDOĞAN\Desktop\Sinema-Rezervasyon-Otomasyonu-master\Sinema-Rezervasyon-Otomasyonu-master\Sinema Programı\obj\x86\Debug\Sinema_Programı.AnaEkran.resources
+C:\Users\Nida ERDOĞAN\Desktop\Sinema-Rezervasyon-Otomasyonu-master\Sinema-Rezervasyon-Otomasyonu-master\Sinema Programı\obj\x86\Debug\Sinema_Programı.KullaniciGirisEkrani.resources
+C:\Users\Nida ERDOĞAN\Desktop\Sinema-Rezervasyon-Otomasyonu-master\Sinema-Rezervasyon-Otomasyonu-master\Sinema Programı\obj\x86\Debug\Sinema_Programı.SinemaRezervasyonProjesi.resources
+C:\Users\Nida ERDOĞAN\Desktop\Sinema-Rezervasyon-Otomasyonu-master\Sinema-Rezervasyon-Otomasyonu-master\Sinema Programı\obj\x86\Debug\Sinema_Programı.Properties.Resources.resources
+C:\Users\Nida ERDOĞAN\Desktop\Sinema-Rezervasyon-Otomasyonu-master\Sinema-Rezervasyon-Otomasyonu-master\Sinema Programı\obj\x86\Debug\Sinema_Programı.YoneticiGirisEkrani.resources
+C:\Users\Nida ERDOĞAN\Desktop\Sinema-Rezervasyon-Otomasyonu-master\Sinema-Rezervasyon-Otomasyonu-master\Sinema Programı\obj\x86\Debug\Sinema_Programı.YoneticiPaneli.resources
+C:\Users\Nida ERDOĞAN\Desktop\Sinema-Rezervasyon-Otomasyonu-master\Sinema-Rezervasyon-Otomasyonu-master\Sinema Programı\obj\x86\Debug\Sinema Rezervasyon Otomasyonu.csproj.GenerateResource.cache
+C:\Users\Nida ERDOĞAN\Desktop\Sinema-Rezervasyon-Otomasyonu-master\Sinema-Rezervasyon-Otomasyonu-master\Sinema Programı\obj\x86\Debug\Sinema Rezervasyon Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\Nida ERDOĞAN\Desktop\Sinema-Rezervasyon-Otomasyonu-master\Sinema-Rezervasyon-Otomasyonu-master\Sinema Programı\obj\x86\Debug\Sinema Programı.exe
+C:\Users\Nida ERDOĞAN\Desktop\Sinema-Rezervasyon-Otomasyonu-master\Sinema-Rezervasyon-Otomasyonu-master\Sinema Programı\obj\x86\Debug\Sinema Programı.pdb
+C:\Users\Nida ERDOĞAN\Desktop\Sinema-Rezervasyon-Otomasyonu-master\Sinema-Rezervasyon-Otomasyonu-master\Sinema Programı\bin\Debug\Sinema Programı.exe.config
+C:\Users\Nida ERDOĞAN\Desktop\Sinema-Rezervasyon-Otomasyonu-master\Sinema-Rezervasyon-Otomasyonu-master\Sinema Programı\bin\Debug\MySql.Data.dll
+C:\Users\Nida ERDOĞAN\Desktop\Sinema-Rezervasyon-Otomasyonu-master\Sinema-Rezervasyon-Otomasyonu-master\Sinema Programı\bin\Debug\Google.Protobuf.dll
+C:\Users\Nida ERDOĞAN\Desktop\Sinema-Rezervasyon-Otomasyonu-master\Sinema-Rezervasyon-Otomasyonu-master\Sinema Programı\bin\Debug\ZstdNet.dll
+C:\Users\Nida ERDOĞAN\Desktop\Sinema-Rezervasyon-Otomasyonu-master\Sinema-Rezervasyon-Otomasyonu-master\Sinema Programı\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Nida ERDOĞAN\Desktop\Sinema-Rezervasyon-Otomasyonu-master\Sinema-Rezervasyon-Otomasyonu-master\Sinema Programı\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Nida ERDOĞAN\Desktop\Sinema-Rezervasyon-Otomasyonu-master\Sinema-Rezervasyon-Otomasyonu-master\Sinema Programı\bin\Debug\System.Memory.dll
+C:\Users\Nida ERDOĞAN\Desktop\Sinema-Rezervasyon-Otomasyonu-master\Sinema-Rezervasyon-Otomasyonu-master\Sinema Programı\bin\Debug\System.Buffers.dll
+C:\Users\Nida ERDOĞAN\Desktop\Sinema-Rezervasyon-Otomasyonu-master\Sinema-Rezervasyon-Otomasyonu-master\Sinema Programı\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Nida ERDOĞAN\Desktop\Sinema-Rezervasyon-Otomasyonu-master\Sinema-Rezervasyon-Otomasyonu-master\Sinema Programı\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Nida ERDOĞAN\Desktop\Sinema-Rezervasyon-Otomasyonu-master\Sinema-Rezervasyon-Otomasyonu-master\Sinema Programı\bin\Debug\MySql.Data.xml
+C:\Users\Nida ERDOĞAN\Desktop\Sinema-Rezervasyon-Otomasyonu-master\Sinema-Rezervasyon-Otomasyonu-master\Sinema Programı\obj\x86\Debug\Sinema Rezervasyon Otomasyonu.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nida ERDOĞAN\Desktop\Sinema-Rezervasyon-Otomasyonu-master\Sinema-Rezervasyon-Otomasyonu-master\Sinema Programı\obj\x86\Debug\Sinema Programı.exe.config
+C:\Users\Nida ERDOĞAN\Desktop\Sinema-Rezervasyon-Otomasyonu-master\Sinema-Rezervasyon-Otomasyonu-master\Sinema Programı\obj\x86\Debug\Sinema Rezervasyon Otomasyonu.csproj.CopyComplete
+C:\Users\tugbe\OneDrive\Masaüstü\Sinema-Rezervasyon-Otomasyonu-master\Sinema-Rezervasyon-Otomasyonu-master\Sinema Programı\obj\x86\Debug\Sinema Rezervasyon Otomasyonu.csproj.AssemblyReference.cache
+C:\Users\tugbe\OneDrive\Masaüstü\Sinema-Rezervasyon-Otomasyonu-master\Sinema-Rezervasyon-Otomasyonu-master\Sinema Programı\obj\x86\Debug\Sinema_Programı.AnaEkran.resources
+C:\Users\tugbe\OneDrive\Masaüstü\Sinema-Rezervasyon-Otomasyonu-master\Sinema-Rezervasyon-Otomasyonu-master\Sinema Programı\obj\x86\Debug\Sinema_Programı.KullaniciGirisEkrani.resources
+C:\Users\tugbe\OneDrive\Masaüstü\Sinema-Rezervasyon-Otomasyonu-master\Sinema-Rezervasyon-Otomasyonu-master\Sinema Programı\obj\x86\Debug\Sinema_Programı.SinemaRezervasyonProjesi.resources
+C:\Users\tugbe\OneDrive\Masaüstü\Sinema-Rezervasyon-Otomasyonu-master\Sinema-Rezervasyon-Otomasyonu-master\Sinema Programı\obj\x86\Debug\Sinema_Programı.Properties.Resources.resources
+C:\Users\tugbe\OneDrive\Masaüstü\Sinema-Rezervasyon-Otomasyonu-master\Sinema-Rezervasyon-Otomasyonu-master\Sinema Programı\obj\x86\Debug\Sinema_Programı.YoneticiGirisEkrani.resources
+C:\Users\tugbe\OneDrive\Masaüstü\Sinema-Rezervasyon-Otomasyonu-master\Sinema-Rezervasyon-Otomasyonu-master\Sinema Programı\obj\x86\Debug\Sinema_Programı.YoneticiPaneli.resources
+C:\Users\tugbe\OneDrive\Masaüstü\Sinema-Rezervasyon-Otomasyonu-master\Sinema-Rezervasyon-Otomasyonu-master\Sinema Programı\obj\x86\Debug\Sinema Rezervasyon Otomasyonu.csproj.GenerateResource.cache
+C:\Users\tugbe\OneDrive\Masaüstü\Sinema-Rezervasyon-Otomasyonu-master\Sinema-Rezervasyon-Otomasyonu-master\Sinema Programı\obj\x86\Debug\Sinema Rezervasyon Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\tugbe\OneDrive\Masaüstü\Sinema-Rezervasyon-Otomasyonu-master\Sinema-Rezervasyon-Otomasyonu-master\Sinema Programı\obj\x86\Debug\Sinema Programı.exe
+C:\Users\tugbe\OneDrive\Masaüstü\Sinema-Rezervasyon-Otomasyonu-master\Sinema-Rezervasyon-Otomasyonu-master\Sinema Programı\obj\x86\Debug\Sinema Programı.pdb
+C:\Users\tugbe\OneDrive\Masaüstü\Sinema-Rezervasyon-Otomasyonu-master\Sinema-Rezervasyon-Otomasyonu-master\Sinema Programı\bin\Debug\Sinema Programı.exe.config
+C:\Users\tugbe\OneDrive\Masaüstü\Sinema-Rezervasyon-Otomasyonu-master\Sinema-Rezervasyon-Otomasyonu-master\Sinema Programı\bin\Debug\Sinema Programı.exe
+C:\Users\tugbe\OneDrive\Masaüstü\Sinema-Rezervasyon-Otomasyonu-master\Sinema-Rezervasyon-Otomasyonu-master\Sinema Programı\bin\Debug\Sinema Programı.pdb
+C:\Users\tugbe\OneDrive\Masaüstü\Sinema-Rezervasyon-Otomasyonu-master\Sinema-Rezervasyon-Otomasyonu-master\Sinema Programı\bin\Debug\MySql.Data.dll
+C:\Users\tugbe\OneDrive\Masaüstü\Sinema-Rezervasyon-Otomasyonu-master\Sinema-Rezervasyon-Otomasyonu-master\Sinema Programı\bin\Debug\Google.Protobuf.dll
+C:\Users\tugbe\OneDrive\Masaüstü\Sinema-Rezervasyon-Otomasyonu-master\Sinema-Rezervasyon-Otomasyonu-master\Sinema Programı\bin\Debug\ZstdNet.dll
+C:\Users\tugbe\OneDrive\Masaüstü\Sinema-Rezervasyon-Otomasyonu-master\Sinema-Rezervasyon-Otomasyonu-master\Sinema Programı\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\tugbe\OneDrive\Masaüstü\Sinema-Rezervasyon-Otomasyonu-master\Sinema-Rezervasyon-Otomasyonu-master\Sinema Programı\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\tugbe\OneDrive\Masaüstü\Sinema-Rezervasyon-Otomasyonu-master\Sinema-Rezervasyon-Otomasyonu-master\Sinema Programı\bin\Debug\System.Memory.dll
+C:\Users\tugbe\OneDrive\Masaüstü\Sinema-Rezervasyon-Otomasyonu-master\Sinema-Rezervasyon-Otomasyonu-master\Sinema Programı\bin\Debug\System.Buffers.dll
+C:\Users\tugbe\OneDrive\Masaüstü\Sinema-Rezervasyon-Otomasyonu-master\Sinema-Rezervasyon-Otomasyonu-master\Sinema Programı\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\tugbe\OneDrive\Masaüstü\Sinema-Rezervasyon-Otomasyonu-master\Sinema-Rezervasyon-Otomasyonu-master\Sinema Programı\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\tugbe\OneDrive\Masaüstü\Sinema-Rezervasyon-Otomasyonu-master\Sinema-Rezervasyon-Otomasyonu-master\Sinema Programı\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\tugbe\OneDrive\Masaüstü\Sinema-Rezervasyon-Otomasyonu-master\Sinema-Rezervasyon-Otomasyonu-master\Sinema Programı\bin\Debug\MySql.Data.xml
+C:\Users\tugbe\OneDrive\Masaüstü\Sinema-Rezervasyon-Otomasyonu-master\Sinema-Rezervasyon-Otomasyonu-master\Sinema Programı\obj\x86\Debug\Sinema Programı.exe.config
+C:\Users\tugbe\OneDrive\Masaüstü\Sinema-Rezervasyon-Otomasyonu-master\Sinema-Rezervasyon-Otomasyonu-master\Sinema Programı\obj\x86\Debug\Sinema Rezervasyon Otomasyonu.csproj.CopyComplete
+C:\Users\tugbe\OneDrive\Masaüstü\Sinema-Rezervasyon-Otomasyonu-master\Sinema-Rezervasyon-Otomasyonu-master\Sinema Programı\obj\x86\Debug\Sinema_Programı.bilet.resources
+C:\Users\tugbe\OneDrive\Masaüstü\Sinema-Rezervasyon-Otomasyonu-master\Sinema-Rezervasyon-Otomasyonu-master\Sinema Programı\bin\Debug\Zen.Barcode.Core.dll
